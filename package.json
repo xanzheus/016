@@ -8,7 +8,7 @@
 },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zenn666/web.git"
+    "url": "git+https://github.com/xanzheus/web.git"
 },
   "author": "Zen",
   "license": "ISC",
@@ -29,7 +29,7 @@
     "nodemon": "^2.0.6"
   },
   "bugs": {
-    "url": "https://github.com/Zenn666/web/issues"
+    "url": "https://github.com/xanzheus/web/issues"
   },
-  "homepage": "https://github.com/Zenn666/web#readme"
+  "homepage": "https://github.com/xanzheus/web#readme"
 }
